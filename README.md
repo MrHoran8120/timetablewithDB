@@ -11,7 +11,7 @@ This project is a continuation of the simple Progressive Web App (PWA) that disp
 
 ## How to Access
 
-The app is hosted at: [School Timetable PWA](https://mrhoran8120.github.io/pwawithlocal/)
+The app is hosted at: [School Timetable PWA](https://mrhoran8120.github.io/timetablewithnotes/)
 
 ## How It Works
 
